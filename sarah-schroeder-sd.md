@@ -8,7 +8,9 @@
 ### Local Attractions
 - Sunset Cliffs
 - The Zoo
+- Beaches
 
 ### Attractions for Tourists
 - Balboa Park
 - Sea World
+
