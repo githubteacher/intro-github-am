@@ -9,3 +9,4 @@
 
 ### Attractions for Tourists
 - Monuments
+- Zoo (Woodley Park Metro Station on Red Line)
