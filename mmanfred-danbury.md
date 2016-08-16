@@ -5,7 +5,7 @@
 * Hoodoo's for bbq brisket 
 
 ### Local Attractions
- * Nature Hikes
+ * Nature Hikes :mount_fuji:
    * Tarrywile
    * Old Quarry
 
