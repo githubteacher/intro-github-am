@@ -6,8 +6,8 @@
 
 ### Local Attractions
  * Nature Hikes :mount_fuji:
-   * Tarrywile
-   * Old Quarry
+   * Tarrywile - has alot of trails from short and simple to a pond with fish to feed or a long up to the tallest part of the city
+   * Old Quarry - simple and short, not much elevation.  has old buildings included a blown up dynamite house.
 
 ### Tourist Traps
 * the mall!
