@@ -21,3 +21,4 @@
 - Lots of fun water parks, my favorites are:
   - Typhoon Lagoon
   - Discovery Cove
+- LegoLand is pretty new and fun!

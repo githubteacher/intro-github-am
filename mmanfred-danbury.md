@@ -2,7 +2,7 @@
 
 ### Restaurants
 * TK's has the best wings
-* Hoodoo's for bbq brisket 
+* Hoodoo's for bbq brisket and their fries
 * Bagel Man for all your breakfast needs
 
 ### Local Attractions
