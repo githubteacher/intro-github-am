@@ -2,7 +2,8 @@
 
 ### Restaurants
 * TK's has the best wings
-* Hoodoo's for bbq brisket and thier fries
+* Hoodoo's for bbq brisket and their fries
+* Bagel Man for all your breakfast needs
 
 ### Local Attractions
  * Nature Hikes :mount_fuji:
