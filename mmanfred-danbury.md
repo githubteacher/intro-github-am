@@ -1,10 +1,13 @@
 # Danbury, CT
 
 ### Restaurants
-This is where we would list places to eat
+* TK's has the best wings
+* Hoodoo's for bbq brisket 
 
 ### Local Attractions
-Locals only, probably shoulnt list them
+ * Nature Hikes
+   * Tarrywile
+   * Old Quarry
 
 ### Tourist Traps
-who is visiting Danbury?  who knows.
+* the mall!
