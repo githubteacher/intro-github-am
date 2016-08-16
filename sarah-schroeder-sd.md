@@ -11,4 +11,3 @@
 ### Attractions for Tourists
 - Balboa Park
 - Sea World
-- 
