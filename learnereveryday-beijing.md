@@ -7,5 +7,6 @@
 ### Local Attractions
 
 - Greatwall
+- Summer Palace
 
 ### Attraction for Tourists
