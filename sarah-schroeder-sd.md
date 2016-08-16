@@ -7,6 +7,7 @@
 ### Local Attractions
 - Sunset Cliffs
 - The Zoo
+- Marine Street for bodysurfing
 
 ### Attractions for Tourists
 - Balboa Park
